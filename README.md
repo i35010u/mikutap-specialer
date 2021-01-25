@@ -1,5 +1,5 @@
 # mikutap
-A special version extracted from https://aidn.jp/mikutap  
+一个[MikuTap](https://aidn.jp/mikutap )的魔改版
 
 # 致所有自行编辑修改的人
 
@@ -14,7 +14,7 @@ A special version extracted from https://aidn.jp/mikutap
 请参见下方许可证要求联系原作者，谢谢
 
 # 为什么要做这个  
-自己用用
+自己玩玩，不定期更新
 
 # 版权说明  
 遵循原作者的说明，作品仅用于非盈利的公共使用用途，无需告知  
@@ -30,5 +30,4 @@ http://exittunes.com/license/
 
 # DEMO  
 
-https://i35010u.tk/mikutap/
-
+http://i35010u.tk/mikutap-specialer/
