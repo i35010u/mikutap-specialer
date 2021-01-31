@@ -1,3 +1,11 @@
+@font-face {
+    　　/* 自定义字体名称 */
+    　　font-family: "Blackoak Std";
+    　　/* 指定字体位置 */
+    　　/* 先找本地是否存在，存在则使用本地字体 */
+    　　src: local("Blackoak Std"),
+    　　　　  url("BlackoakStd.otf")format("opentype");
+    }
 #about_cover,#view,#view canvas,body,html
 {
     height:100%;
